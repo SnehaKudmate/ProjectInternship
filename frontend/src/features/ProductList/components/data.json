@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Advanced SEO Course",
+    "description": "Learn advanced SEO techniques.",
+    "rating": 4.5,
+    "thumbnail": "img1.jpg",
+    "images": [
+      "img1.jpg",
+      "https://www.example.com/image2.jpg"
+    ],
+    "highlights": ["Expert instructors", "Hands-on projects"],
+    "deleted": false,
+    "skills": ["SEO", "Content Creation", "Social Media"],
+    "tenure": "3 months",
+    "location": "India",
+    "companyImage": "https://picsum.photos/200/300.jpg"
+  },
+  {
+    "title": "Web Development Bootcamp",
+    "description": "Become a full-stack web developer.",
+    "rating": 4.8,
+    "thumbnail": "https://www.example.com/thumbnail2.jpg",
+    "images": [
+      "https://www.example.com/image3.jpg",
+      "https://www.example.com/image4.jpg"
+    ],
+    "highlights": ["Project-based learning", "Job placement assistance"],
+    "deleted": false,
+    "skills": ["JavaScript", "React", "Node.js"],
+    "tenure": "6 months",
+    "location": "United States",
+    "companyImage": "https://www.google.com/search?q=Web+Development+Bootcamp+company&tbm=isch&imgrefurl=https://www.example.com/company2.jpg"
+  },
+  {
+    "title": "Data Science for Beginners",
+    "description": "Introduction to data science with Python.",
+    "rating": 4.6,
+    "thumbnail": "https://www.example.com/thumbnail3.jpg",
+    "images": [
+      "https://www.example.com/image5.jpg",
+      "https://www.example.com/image6.jpg"
+    ],
+    "highlights": ["Hands-on coding exercises", "Real-world projects"],
+    "deleted": false,
+    "skills": ["Python", "Data Analysis", "Machine Learning"],
+    "tenure": "3 months",
+    "location": "Canada",
+    "companyImage": "https://www.google.com/search?q=Data+Science+for+Beginners+company&tbm=isch&imgrefurl=https://www.example.com/company3.jpg"
+  },
+  {
+    "title": "Digital Marketing Mastery",
+    "description": "Master digital marketing strategies.",
+    "rating": 4.7,
+    "thumbnail": "https://www.example.com/thumbnail4.jpg",
+    "images": [
+      "https://www.example.com/image7.jpg",
+      "https://www.example.com/image8.jpg"
+    ],
+    "highlights": ["Expert instructors", "Real case studies"],
+    "deleted": false,
+    "skills": ["SEO", "PPC Advertising", "Social Media Marketing"],
+    "tenure": "6 months",
+    "location": "Germany",
+    "companyImage": "https://www.google.com/search?q=Digital+Marketing+Mastery+company&tbm=isch&imgrefurl=https://www.example.com/company4.jpg"
+  },
+  {
+    "title": "UX/UI Design Bootcamp",
+    "description": "Learn UX/UI design from scratch.",
+    "rating": 4.9,
+    "thumbnail": "https://www.example.com/thumbnail5.jpg",
+    "images": [
+      "https://www.example.com/image9.jpg",
+      "https://www.example.com/image10.jpg"
+    ],
+    "highlights": ["Portfolio development", "Industry-relevant skills"],
+    "deleted": false,
+    "skills": ["Design Thinking", "Wireframing", "Prototyping"],
+    "tenure": "12 months",
+    "location": "Japan",
+    "companyImage": "https://www.google.com/search?q=UX/UI+Design+Bootcamp+company&tbm=isch&imgrefurl=https://www.example.com/company5.jpg"
+  },
+  {
+    "title": "Full-Stack JavaScript Development",
+    "description": "Become a full-stack developer with JavaScript.",
+    "rating": 4.4,
+    "thumbnail": "https://www.example.com/thumbnail6.jpg",
+    "images": [
+      "https://www.example.com/image11.jpg",
+      "https://www.example.com/image12.jpg"
+    ],
+    "highlights": ["Project-based learning", "Mentorship"],
+    "deleted": false,
+    "skills": ["JavaScript", "Node.js", "Express"],
+    "tenure": "6 months",
+    "location": "China",
+    "companyImage": "https://www.google.com/search?q=Full-Stack+JavaScript+Development+company&tbm=isch&imgrefurl=https://www.example.com/company6.jpg"
+  },
+  {
+    "title": "Python for Data Science",
+    "description": "Learn Python programming for data science.",
+    "rating": 4.7,
+    "thumbnail": "https://www.example.com/thumbnail7.jpg",
+    "images": [
+      "https://www.example.com/image13.jpg",
+      "https://www.example.com/image14.jpg"
+    ],
+    "highlights": ["Hands-on projects", "Expert instructors"],
+    "deleted": false,
+    "skills": ["Python", "Data Visualization", "Statistics"],
+    "tenure": "3 months",
+    "location": "South Korea",
+    "companyImage": "https://www.google.com/search?q=Python+for+Data+Science+company&tbm=isch&imgrefurl=https://www.example.com/company7.jpg"
+  },
+  {
+    "title": "Introduction to Machine Learning",
+    "description": "Learn the basics of machine learning algorithms.",
+    "rating": 4.6,
+    "thumbnail": "https://www.example.com/thumbnail8.jpg",
+    "images": [
+      "https://www.example.com/image15.jpg",
+      "https://www.example.com/image16.jpg"
+    ],
+    "highlights": ["Practical projects", "Experienced mentors"],
+    "deleted": false,
+    "skills": ["Machine Learning", "Algorithms", "Data Preprocessing"],
+    "tenure": "12 months",
+    "location": "India",
+    "companyImage": "https://www.google.com/search?q=Introduction+to+Machine+Learning+company&tbm=isch&imgrefurl=https://www.example.com/company8.jpg"
+  },
+  {
+    "title": "Advanced Java Programming",
+    "description": "Deep dive into advanced Java programming concepts.",
+    "rating": 4.5,
+    "thumbnail": "https://www.example.com/thumbnail9.jpg",
+    "images": [
+      "https://www.example.com/image17.jpg",
+      "https://www.example.com/image18.jpg"
+    ],
+    "highlights": ["Advanced topics", "Hands-on practice"],
+    "deleted": false,
+    "skills": ["Java", "OOP Concepts", "Concurrency"],
+    "tenure": "6 months",
+    "location": "Singapore",
+    "companyImage": "https://www.google.com/search?q=Advanced+Java+Programming+company&tbm=isch&imgrefurl=https://www.example.com/company9.jpg"
+  },
+  {
+    "title": "Cybersecurity Fundamentals",
+    "description": "Learn the basics of cybersecurity practices.",
+    "rating": 4.8,
+    "thumbnail": "https://www.example.com/thumbnail10.jpg",
+    "images": [
+      "https://www.example.com/image19.jpg",
+      "https://www.example.com/image20.jpg"
+    ],
+    "highlights": ["Security best practices", "Real-world scenarios"],
+    "deleted": false,
+    "skills": ["Network Security", "Ethical Hacking", "Incident Response"],
+    "tenure": "3 months",
+    "location": "Canada",
+    "companyImage": "https://www.google.com/search?q=Cybersecurity+Fundamentals+company&tbm=isch&imgrefurl=https://www.example.com/company10.jpg"
+  },
+  {
+    "title": "Graphic Design Essentials",
+    "description": "Learn the fundamentals of graphic design.",
+    "rating": 4.3,
+    "thumbnail": "https://www.example.com/thumbnail11.jpg",
+    "images": [
+      "https://www.example.com/image21.jpg",
+      "https://www.example.com/image22.jpg"
+    ],
+    "highlights": ["Design principles", "Creative projects"],
+    "deleted": false,
+    "skills": ["Photoshop", "Illustrator", "Design Theory"],
+    "tenure": "12 months",
+    "location": "China",
+    "companyImage": "https://www.google.com/search?q=Graphic+Design+Essentials+company&tbm=isch&imgrefurl=https://www.example.com/company11.jpg"
+  },
+  {
+    "title": "Project Management Professional",
+    "description": "Prepare for the PMP certification exam.",
+    "rating": 4.9,
+    "thumbnail": "https://www.example.com/thumbnail12.jpg",
+    "images": [
+      "https://www.example.com/image23.jpg",
+      "https://www.example.com/image24.jpg"
+    ],
+    "highlights": ["Exam preparation", "Experienced instructors"],
+    "deleted": false,
+    "skills": ["Project Management", "PMP Exam Prep", "Agile Methodologies"],
+    "tenure": "6 months",
+    "location": "United States",
+    "companyImage": "https://www.google.com/search?q=Project+Management+Professional+company&tbm=isch&imgrefurl=https://www.example.com/company12.jpg"
+  },
+  {
+    "title": "SQL for Data Analysis",
+    "description": "Learn SQL for data analysis and reporting.",
+    "rating": 4.6,
+    "thumbnail": "https://www.example.com/thumbnail13.jpg",
+    "images": [
+      "https://www.example.com/image25.jpg",
+      "https://www.example.com/image26.jpg"
+    ],
+    "highlights": ["Hands-on exercises", "Real-world examples"],
+    "deleted": false,
+    "skills": ["SQL", "Database Management", "Data Reporting"],
+    "tenure": "3 months",
+    "location": "India",
+    "companyImage": "https://www.google.com/search?q=SQL+for+Data+Analysis+company&tbm=isch&imgrefurl=https://www.example.com/company13.jpg"
+  },
+  {
+    "title": "Front-End Web Development",
+    "description": "Learn HTML, CSS, and JavaScript for front-end development.",
+    "rating": 4.4,
+    "thumbnail": "https://www.example.com/thumbnail14.jpg",
+    "images": [
+      "https://www.example.com/image27.jpg",
+      "https://www.example.com/image28.jpg"
+    ],
+    "highlights": ["Interactive projects", "Real-world applications"],
+    "deleted": false,
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "tenure": "6 months",
+    "location": "Singapore",
+    "companyImage": "https://www.google.com/search?q=Front-End+Web+Development+company&tbm=isch&imgrefurl=https://www.example.com/company14.jpg"
+  }
+]
